@@ -1,2 +1,25 @@
 # multi-branch-enterprise-network
-Multi-Branch Enterprise Network | Cisco Packet Tracer, VLANs, ROAS, EIGRP, DHCP, DNS, ACLs
+## Overview
+
+Designed and configured an enterprise network connecting multiple branches across different countries.
+
+## Technologies
+
+- VLANs
+- Router-on-a-Stick
+- EIGRP
+- DHCP
+- DNS
+- ACLs
+
+
+
+
+
+
+
+
+## Network Topology
+
+![Network Topology](GLN_network_1280x769.png)
+
